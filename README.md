@@ -1,4 +1,4 @@
-# Hi 👋, I'm George Samy
+# Hi 👋, I'm George Sami
 
 💻 Frontend Developer from Egypt
 
